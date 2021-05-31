@@ -1,0 +1,20 @@
+{
+  "name": "guests-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pam-NUCBA/NODE-clase20-authApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pam-NUCBA/NODE-clase20-authApp/issues"
+  },
+  "homepage": "https://github.com/pam-NUCBA/NODE-clase20-authApp#readme"
+}
